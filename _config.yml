@@ -3,8 +3,8 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a data scientist in the SF Bay Area with an electrical/product engineering background and 2+ years of experience in programming and data analysis. 
   <br><br>
-  With a passion for machine learning, I am eager to gain and use data-driven insights, present deliverables, and collaborate effectively either in-person or remotely.
-  <br>
+  # With a passion for machine learning, I am eager to gain and use data-driven insights, present deliverables, and collaborate effectively either in-person or remotely.
+  # <br>
   My projects include a minimum viable product for Airbnb review sentiment classification, which you can try out <a href="http://tinyurl.com/rating-predictor">here</a>.
   <br><br>
   When I'm not learning about or working on something programming or data science-related, I enjoy yoga, bike riding, and enjoying the sun. <b>Fun Fact</b>: I am originally from Honolulu, Hawai'i!
