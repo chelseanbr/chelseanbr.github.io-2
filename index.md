@@ -21,7 +21,7 @@
 <img src="images/site_pred_neg.png"/>
 
 <h3><p align="center"> 
-<a href="http://tinyurl.com/rating-predictor">Check out the Web App!</a>
+<a href="http://tinyurl.com/rating-predictor">[ Check out the Web App! ]</a>
 </p></h3>
 
 ---
