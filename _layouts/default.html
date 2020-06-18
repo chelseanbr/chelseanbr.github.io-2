@@ -12,11 +12,26 @@
     <![endif]-->
   </head>
   <style>
-    body {
+    /* body {
       background-image: url('images/office.jpg');
       background-position: right bottom;
       background-repeat: no-repeat;
       background-size: 25% 25%;
+    } */
+    body:before {
+      content: "";
+      display: block;
+      position: fixed;
+      left: 0;
+      top: 0;
+      width: 25%;
+      height: 25%;
+      z-index: -10;
+      background: url('images/office.jpg') no-repeat center center;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
     }
   </style>
   <body>
