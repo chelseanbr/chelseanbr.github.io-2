@@ -7,7 +7,7 @@
 <h2><a href="https://github.com/chelseanbr/between-the-lines-hotels">Between the Lines of Tripadvisor Hotel Reviews</a>
 </h2>
 
-<img src="images/wordcloud_negative.png"/>
+<img src="images/confusion_matrix_test_lstm_6epochs_20200608-07:34:50.png"/>
 
 ### Project Details
 • Managed individual project through agile scrum meetings, scraped 1.2 million Tripadvisor hotel reviews in 4 days to build Airbnb review sentiment classifier
@@ -16,7 +16,7 @@
 
 **Technologies**: AWS EC2, Docker, Flask, Python and libraries: TensorFlow, NLTK, Scikit-Learn, BeautifulSoup4, Pandas, NumPy, Matplotlib, Seaborn
 
-<img src="images/confusion_matrix_test_lstm_6epochs_20200608-07:34:50.png"/>
+<img src="images/wordcloud_negative.png"/>
 <br><br>
 <img src="images/site_pred_neg.png"/>
 
