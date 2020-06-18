@@ -16,7 +16,7 @@
 
 ![Web App Negative Example](https://github.com/chelseanbr/between-the-lines-hotels/blob/setup/imgs/site_pred_neg.png)
 
-[Check out the Web App!](/sample_page)
+[Check out the Web App!](http://tinyurl.com/rating-predictor)
 
 ---
 [What's In My Makeup Bag?](https://github.com/chelseanbr/Whats-In-My-Makeup-Bag)
