@@ -6,7 +6,7 @@
 
 [Between the Lines of Tripadvisor Hotel Reviews](https://github.com/chelseanbr/between-the-lines-hotels)
 
-<img src="https://github.com/chelseanbr/between-the-lines-hotels/blob/setup/imgs/neural_net_cm/confusion_matrix_test_lstm_6epochs_20200608-07:34:50.png"/>
+![Final CNN-LSTM Neural Net Test Confusion Matrix](https://github.com/chelseanbr/between-the-lines-hotels/blob/setup/imgs/neural_net_cm/confusion_matrix_test_lstm_6epochs_20200608-07:34:50.png)
 
 • Managed individual project through agile scrum meetings, scraped 1.2 million Tripadvisor hotel reviews in 4 days to build Airbnb review sentiment classifier
 
@@ -14,21 +14,21 @@
 
 **Technologies**: AWS EC2, Docker, Flask, Python and libraries: TensorFlow, NLTK, Scikit-Learn, BeautifulSoup4, Pandas, NumPy, Matplotlib, Seaborn
 
-<img src="https://github.com/chelseanbr/between-the-lines-hotels/blob/setup/imgs/site_pred_neg.png"/>
+![Web App Negative Example](https://github.com/chelseanbr/between-the-lines-hotels/blob/setup/imgs/site_pred_neg.png)
 
 [Check out the Web App!](/sample_page)
 
 ---
 [What's In My Makeup Bag?](https://github.com/chelseanbr/Whats-In-My-Makeup-Bag)
 
-<img src="https://github.com/chelseanbr/Whats-In-My-Makeup-Bag/blob/eda/images/pie_product_status.png"/>
+![Pie Chart Product Status](https://github.com/chelseanbr/Whats-In-My-Makeup-Bag/blob/eda/images/pie_product_status.png)
 
 • Cleaned data, performed EDA on >100,000 harmful cosmetic product records
 
 • Conducted hypothesis testing using Welch's t-test and found statistically
 significant differences across similar companies in their ratios of discontinued or reformulated products to harmful products reported
 
-<img src="https://github.com/chelseanbr/Whats-In-My-Makeup-Bag/blob/eda/images/hyp_test_estee_chanel.png"/>
+![P-Value](https://github.com/chelseanbr/Whats-In-My-Makeup-Bag/blob/eda/images/hyp_test_estee_chanel.png)
 
 <!-- ---
 [Project 3 Title](http://example.com/)
