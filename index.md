@@ -16,7 +16,7 @@
 
 **Technologies**: AWS EC2, Docker, Flask, Python and libraries: TensorFlow, NLTK, Scikit-Learn, BeautifulSoup4, Pandas, NumPy, Matplotlib, Seaborn
 
-<img src="images/wordcloud_negative.png"/>
+<img src="images/wordcloud_positive.png"/>
 <br><br>
 <img src="images/site_pred_neg.png"/>
 
