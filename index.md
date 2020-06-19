@@ -2,13 +2,14 @@
 
 ---
 
-<h2><u>Featured Projects</h2></u>
+<u><h2>Featured Projects</h2></u>
 <br>
 
 <h2><a href="https://github.com/chelseanbr/between-the-lines-hotels">Between the Lines of Tripadvisor Hotel Reviews</a>
 </h2>
 <img src="images/confusion_matrix_test_lstm_6epochs_20200608-07:34:50.png"/>
-<iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/between-the-lines-hotels.pdf&embedded=true" loading="eager"></iframe>
+<p><iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/between-the-lines-hotels.pdf&embedded=true" loading="eager"></iframe></p>
+<br>
 
 ### Project Details
 • Managed individual project through agile scrum meetings, scraped 1.2 million Tripadvisor hotel reviews in 4 days to build Airbnb review sentiment classifier
@@ -30,7 +31,8 @@
 </h2>
 
 <img src="images/pie_product_status.png"/>
-<iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/Whats-In-My-Makeup-Bag_.pdf&embedded=true" loading="eager"></iframe>
+<p><iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/Whats-In-My-Makeup-Bag_.pdf&embedded=true" loading="eager"></iframe></p>
+<br>
 
 ### Project Details
 • Cleaned data, performed EDA on >100,000 harmful cosmetic product records
