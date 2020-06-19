@@ -1,6 +1,19 @@
 # Data Science Portfolio
 ---
-# Featured Projects
+## Table of Contents
+### 1. [Featured Individual Projects](#Featured-Individual-Projects)
+* Between the Lines of Tripadvisor Hotel Reviews
+* What's In My Makeup Bag?
+### 2. [Group Case Studies](#Group-Case-Studies)
+* Detecting Fraud
+* Recommending Movies
+* IMDB Movie Review Sentiment Prediction
+* Reducing Churn with Supervised Learning
+* Predicting Sale Price of Auction Machinery
+* Macron vs Le Pen Through Tweets - Spark EDA
+### 3. [Resume](#Resume)
+___
+# Featured Individual Projects
 
 <h2><a href="https://github.com/chelseanbr/between-the-lines-hotels">Between the Lines of Tripadvisor Hotel Reviews</a>
 </h2>
@@ -56,7 +69,7 @@ significant differences across similar companies in their ratios of discontinued
 <br><br>
 
 ---
-# Case Studies
+# Group Case Studies
 <br>
 
 <h2><a href="https://docs.google.com/presentation/d/1N7TDh3B01rEnUJEVcMnRda2Aj2pg0AVLp4S5C2i6NK8/edit?usp=sharing">Detecting Fraud</a>
@@ -150,3 +163,9 @@ ___
 <br>
 
 ---
+# Resume
+<iframe width="100%" height="600" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/Chelsea_Ramos_Resume.pdf&embedded=true" loading="eager"></iframe>
+
+<br><br>
+
+[[ Back to Top ]](#Data-Science-Portfolio)
