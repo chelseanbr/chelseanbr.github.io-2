@@ -62,9 +62,8 @@ significant differences across similar companies in their ratios of discontinued
 <p>
 <h3>Summary</h3>
 Over the course of roughly 12 hours split into two days, my team had to train and deploy a fraud classification model to a Flask web app. We performed EDA, feature engineering, double-checked for any data leakage, and handled class imbalance with undersampling. Our metrics were recall and ROC AUC to minimize false negatives. We used Grid Search for hyperperparameter tuning and 5-fold cross-validation for model evaluation. Our best model was a Random Forest with test recall of 0.92 and ROC AUC of 0.98. Finally, we deployed the model, analyzed feature importances, and came up with business actions for low/medium/high risk fraud.
-
+<br><br>
 <h3>Technologies</h3> 
-<br>
 <b>Flask</b>, Scikit-Learn, Pandas, Matplotlib, MongoDB
 </p>
 
@@ -77,7 +76,7 @@ Over the course of roughly 12 hours split into two days, my team had to train an
 <p>
 <h3>Summary</h3>
 My team had roughly 12 hours split into two days to build a recommender system for movies using a MovieLens dataset. We performed EDA and found that we had a very sparse utiliy matrix. Due to the cold-start problems we faced, we used k-means to cluster movies by genre and users by demographics to build the movie recommender for users within the whole dataset. With more time, we would have tried to use matrix factorization with Spark ALS.
-<br>
+<br><br>
 <h3>Technologies</h3> 
 <b>Scikit-Learn</b>, Pandas, Matplotlib, Seaborn
 </p>
@@ -91,7 +90,7 @@ My team had roughly 12 hours split into two days to build a recommender system f
 <p>
 <h3>Summary</h3>
 This case study took place over roughly 6 hours in one day. We used natural language processing (NLP) to classify IMDB movie reviews as either positive or negative (neutral reviews were excluded from our dataset). We explored how different NLP techniques affected model scores and ended up with a logistic regression performing the best using a Snowball stemmer and TF-IDF features.
-<br>
+<br><br>
 <h3>Technologies</h3> 
 <b>Natural Language Toolkit (NLTK)</b>, Scikit-Learn, Pandas, Matplotlib, Seaborn
 </p>
@@ -105,7 +104,7 @@ This case study took place over roughly 6 hours in one day. We used natural lang
 <p>
 <h3>Summary</h3>
 Approximately 6-hour (one day) EDA & modeling case study to reduce churn.
-<br>
+<br><br>
 <h3>Technologies</h3> 
 <b>Scikit-Learn</b>, Pandas, Matplotlib
 </p>
@@ -119,7 +118,7 @@ Approximately 6-hour (one day) EDA & modeling case study to reduce churn.
 <p>
 <h3>Summary</h3>
 Roughly 6-hour (one day) EDA & modeling case study to predict sale price.
-<br>
+<br><br>
 <h3>Technologies</h3> 
 <b>Scikit-Learn</b>, Pandas, Matplotlib
 </p>
@@ -133,7 +132,7 @@ Roughly 6-hour (one day) EDA & modeling case study to predict sale price.
 <p>
 <h3>Summary</h3>
 Approximately 6-hour (one day) EDA to mainly try out using Spark.
-<br>
+<br><br>
 <h3>Technologies</h3> 
 <b>Spark (PySpark)</b>, Pandas, Matplotlib
 </p>
