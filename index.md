@@ -31,13 +31,11 @@ ___
 <p><iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/between-the-lines-hotels.pdf&embedded=true" loading="eager"></iframe></p>
 
 <h3>Summary</h3> 
-• Managed individual project through agile scrum meetings, scraped 1.2 million Tripadvisor hotel reviews in 4 days to build Airbnb review sentiment classifier
-<br>
-• Built and evaluated models on confusion matrix, improved accuracy from <70% to 88%; deployed long short-term memory neural network to web app
+The duration of this project was about 2 weeks and it was managed through <b>agile scrum meetings.</b> I scraped 1.2 million Tripadvisor hotel reviews in 4 days to build a sentiment classifier. Then, after data preprocessing and EDA, I built and evaluated over 6 different models on their confusion matrices and improved accuracy from <70% to 88%. Finally, I deployed a long short-term memory neural network to web app running in a Docker container with TensorFlow in an AWS EC2 instance. For more details, please check out the GitHub Repo and Google Slides.
 <br><br>
 <h3>Technologies</h3> 
 
-AWS EC2, Docker, Flask, Python and libraries: <b>TensorFlow</b>, NLTK, Scikit-Learn, BeautifulSoup4, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+<b>AWS EC2, Docker, Flask,</b> Jupyter Notebook, Python and libraries: <b>TensorFlow, NLTK, Scikit-Learn, BeautifulSoup4,</b> Pandas, NumPy, Matplotlib, Seaborn
 <br><br>
 
 <img src="images/wordcloud_positive.png"/>
@@ -60,10 +58,7 @@ AWS EC2, Docker, Flask, Python and libraries: <b>TensorFlow</b>, NLTK, Scikit-Le
 <p><iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/Whats-In-My-Makeup-Bag_.pdf&embedded=true" loading="eager"></iframe></p>
 
 <h3>Summary</h3>
-• Cleaned data, performed EDA on >100,000 harmful cosmetic product records
-<br>
-• Conducted hypothesis testing using Welch's t-test and found statistically
-significant differences across similar companies in their ratios of discontinued or reformulated products to harmful products reported
+This project lasted 1 week and it was also managed through agile scrum meetings. I cleaned and performed EDA on >100,000 harmful cosmetic product records. Then, I conducted hypothesis testing using Welch's t-test and found statistically significant differences across similar companies in their ratios of discontinued or reformulated products to harmful products reported. Please check out the GitHub Repo and Google Slides for more info.
 <br><br>
 <h3>Technologies</h3> 
 
