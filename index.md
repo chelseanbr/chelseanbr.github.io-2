@@ -7,11 +7,11 @@
 <img src="images/confusion_matrix_test_lstm_6epochs_20200608-07:34:50.png"/>
 <p><iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/between-the-lines-hotels.pdf&embedded=true" loading="eager"></iframe></p>
 
-<h3>Project Details</h3> 
+<h3>Summary</h3> 
 • Managed individual project through agile scrum meetings, scraped 1.2 million Tripadvisor hotel reviews in 4 days to build Airbnb review sentiment classifier
 <br>
 • Built and evaluated models on confusion matrix, improved accuracy from <70% to 88%; deployed long short-term memory neural network to web app
-
+<br><br>
 <h3>Technologies</h3> 
 
 AWS EC2, Docker, Flask, Python and libraries: TensorFlow, NLTK, Scikit-Learn, BeautifulSoup4, Pandas, NumPy, Matplotlib, Seaborn
@@ -34,11 +34,15 @@ AWS EC2, Docker, Flask, Python and libraries: TensorFlow, NLTK, Scikit-Learn, Be
 <img src="images/pie_product_status.png"/>
 <p><iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/Whats-In-My-Makeup-Bag_.pdf&embedded=true" loading="eager"></iframe></p>
 
-<h3>Project Details</h3> 
+<h3>Summary</h3>
 • Cleaned data, performed EDA on >100,000 harmful cosmetic product records
 <br>
 • Conducted hypothesis testing using Welch's t-test and found statistically
 significant differences across similar companies in their ratios of discontinued or reformulated products to harmful products reported
+<br><br>
+<h3>Technologies</h3> 
+
+<b>SciPy</b>, Pandas, Matplotlib, Seaborn
 <br><br>
 
 <img src="images/num_products_by_company_barchart.png"/>
@@ -64,7 +68,7 @@ significant differences across similar companies in their ratios of discontinued
 Over the course of roughly 12 hours split into two days, my team had to train and deploy a fraud classification model to a Flask web app. We performed EDA, feature engineering, double-checked for any data leakage, and handled class imbalance with undersampling. Our metrics were recall and ROC AUC to minimize false negatives. We used Grid Search for hyperperparameter tuning and 5-fold cross-validation for model evaluation. Our best model was a Random Forest with test recall of 0.92 and ROC AUC of 0.98. Finally, we deployed the model, analyzed feature importances, and came up with business actions for low/medium/high risk fraud.
 <br><br>
 <h3>Technologies</h3> 
-<b>Flask</b>, Scikit-Learn, Pandas, Matplotlib, MongoDB
+<b>Flask</b>, AWS EC2, Docker, Scikit-Learn, Pandas, Matplotlib, MongoDB
 </p>
 
 <br><br>
