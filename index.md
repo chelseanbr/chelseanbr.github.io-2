@@ -6,12 +6,12 @@
 * [What's In My Makeup Bag?](#makeup) - Hypothesis Testing
 
 ### 2. [Group Case Studies](#Group-Case-Studies)
-* [Detecting Fraud](#fraud)
+* [Detecting Fraud](#fraud) - Model Deployment
 * [Recommending Movies](#movie-rec)
 * [IMDB Movie Review Sentiment Prediction](#imdb)
 * [Reducing Churn with Supervised Learning](#churn)
-* [Predicting Sale Price of Auction Machinery](#price)
-* [Macron vs Le Pen Through Tweets - Spark EDA](#spark)
+* [Predicting Sale Price of Auction Machinery](#price) - Regression
+* [Macron vs Le Pen Through Tweets](#spark) - Spark EDA
 
 ### 3. [Resume](#Resume)
 
@@ -147,7 +147,7 @@ Approximately 6-hour (one day) EDA & modeling case study to reduce churn.
 
 <p>
 <h3>Summary</h3>
-Roughly 6-hour (one day) EDA & modeling case study to predict sale price.
+Roughly 6-hour (one day) EDA & modeling case study to predict sale price with regression.
 <br><br>
 <h3>Technologies</h3> 
 <b>Scikit-Learn</b>, Pandas, Matplotlib, Jupyter Notebook
@@ -155,14 +155,14 @@ Roughly 6-hour (one day) EDA & modeling case study to predict sale price.
 
 <br><br>
 
-<h2><a href="https://docs.google.com/presentation/d/1DP2IOl3nunOTMZe26R-GYc3B_nZu7AHivER2wIWtxoQ/edit?usp=sharing" name="spark">Macron vs Le Pen Through Tweets - Spark EDA</a>
+<h2><a href="https://docs.google.com/presentation/d/1DP2IOl3nunOTMZe26R-GYc3B_nZu7AHivER2wIWtxoQ/edit?usp=sharing" name="spark">Macron vs Le Pen Through Tweets</a>
 </h2>
 <br>
 <iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/Twitter-Spark-EDA-Group2.pdf&embedded=true" loading="eager"></iframe>
 
 <p>
 <h3>Summary</h3>
-Approximately 6-hour (one day) EDA to mainly try out using Spark.
+Approximately 6-hour (one day) EDA to also try out using Spark.
 <br><br>
 <h3>Technologies</h3> 
 <b>Spark (PySpark)</b>, Pandas, Matplotlib, Jupyter Notebook
