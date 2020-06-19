@@ -88,5 +88,9 @@ significant differences across similar companies in their ratios of discontinued
 <iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/Twitter-Spark-EDA-Group2.pdf&embedded=true" loading="eager"></iframe>
 
 ___
+<br>
+
 ### More projects to come!
+<br>
+
 ---
