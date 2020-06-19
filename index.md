@@ -80,9 +80,8 @@ This project lasted 1 week and it was also managed through agile scrum meetings.
 Thanks to my fellow teammates at Galvanize!
 <br><br>
 
-<h2><a name="fraud">Detecting Fraud</a>
+<h2><a href="https://docs.google.com/presentation/d/1N7TDh3B01rEnUJEVcMnRda2Aj2pg0AVLp4S5C2i6NK8/edit?usp=sharing" name="fraud">Detecting Fraud</a>
 </h2>
-<a href="https://docs.google.com/presentation/d/1N7TDh3B01rEnUJEVcMnRda2Aj2pg0AVLp4S5C2i6NK8/edit?usp=sharing">Google Slides</a>
 <br>
 <iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/Detecting-Fraud.pdf&embedded=true" loading="eager"></iframe>
 
@@ -96,9 +95,8 @@ Over the course of roughly 12 hours split into two days, my team had to train an
 
 <br><br>
 
-<h2><a name="movie-rec">Recommending Movies</a>
+<h2><a href="https://docs.google.com/presentation/d/10mxPJzqnq_YypwsjY20M1ZftKIaZDRyxxnlbfJ-zcMk/edit?usp=sharing" name="movie-rec">Recommending Movies</a>
 </h2>
-<a href="https://docs.google.com/presentation/d/10mxPJzqnq_YypwsjY20M1ZftKIaZDRyxxnlbfJ-zcMk/edit?usp=sharing">Google Slides</a>
 <br>
 <iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/Recommending-Movies.pdf&embedded=true" loading="eager"></iframe>
 
@@ -112,9 +110,8 @@ My team had roughly 12 hours split into two days to build a recommender system f
 
 <br><br>
 
-<h2><a name="imdb">IMDB Movie Review Sentiment Prediction</a>
+<h2><a href="https://docs.google.com/presentation/d/157sQ8w0JysUSefijpaAORrjJrGq6SzjHdJTTeXWeoEQ/edit?usp=sharing" name="imdb">IMDB Movie Review Sentiment Prediction</a>
 </h2>
-<a href="https://docs.google.com/presentation/d/157sQ8w0JysUSefijpaAORrjJrGq6SzjHdJTTeXWeoEQ/edit?usp=sharing">Google Slides</a>
 <br>
 <iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/IMDB-Movie-Review-Sentiment-Prediction-Group-1.pdf&embedded=true" loading="eager"></iframe>
 
@@ -128,9 +125,8 @@ This case study took place over roughly 6 hours in one day. We used natural lang
 
 <br><br>
 
-<h2><a name="churn">Reducing Churn with Supervised Learning</a>
+<h2><a href="https://docs.google.com/presentation/d/1g_H1GpfpihiBeJgSnZp61ADMddcC-JJz55yjfvi-7Ew/edit?usp=sharing" name="churn">Reducing Churn with Supervised Learning</a>
 </h2>
-<a href="https://docs.google.com/presentation/d/1g_H1GpfpihiBeJgSnZp61ADMddcC-JJz55yjfvi-7Ew/edit?usp=sharing">Google Slides</a>
 <br>
 <iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/Supervised-Learning-Case-Study-Group-3.pdf&embedded=true" loading="eager"></iframe>
 
@@ -144,9 +140,8 @@ Approximately 6-hour (one day) EDA & modeling case study to reduce churn.
 
 <br><br>
 
-<h2><a name="price">Predicting Sale Price of Auction Machinery</a>
+<h2><a href="https://docs.google.com/presentation/d/1WVcawr_99BM5hdVz6aZ9d_Y0-LYXF1_aV_Y_5RDlv5A/edit?usp=sharing" name="price">Predicting Sale Price of Auction Machinery</a>
 </h2>
-<a href="https://docs.google.com/presentation/d/1WVcawr_99BM5hdVz6aZ9d_Y0-LYXF1_aV_Y_5RDlv5A/edit?usp=sharing">Google Slides</a>
 <br>
 <iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/Predicting-Auction-Prices.pdf&embedded=true" loading="eager"></iframe>
 
@@ -160,9 +155,8 @@ Roughly 6-hour (one day) EDA & modeling case study to predict sale price.
 
 <br><br>
 
-<h2><a name="spark">Macron vs Le Pen Through Tweets - Spark EDA</a>
+<h2><a href="https://docs.google.com/presentation/d/1DP2IOl3nunOTMZe26R-GYc3B_nZu7AHivER2wIWtxoQ/edit?usp=sharing" name="spark">Macron vs Le Pen Through Tweets - Spark EDA</a>
 </h2>
-<a href="https://docs.google.com/presentation/d/1DP2IOl3nunOTMZe26R-GYc3B_nZu7AHivER2wIWtxoQ/edit?usp=sharing">Google Slides</a>
 <br>
 <iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/Twitter-Spark-EDA-Group2.pdf&embedded=true" loading="eager"></iframe>
 
