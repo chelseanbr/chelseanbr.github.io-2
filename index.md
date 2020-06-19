@@ -17,7 +17,7 @@
 
 ___
 
-<p><small><b><u>Please note:</u></b> If you notice any missing content like rectangles that show up blank or saying "preview not available," kindly refresh the page to reload them sucessfully. I am still looking into the issue with these iframes intermittently failing to load. Thank you!
+<p><small><b><u>Please note:</u></b> If you notice any missing content like rectangles that show up blank or saying "preview not available," kindly refresh the page to reload them sucessfully. These iframes might intermittently fail to load. Thank you!
 </small></p>
 
 ___
