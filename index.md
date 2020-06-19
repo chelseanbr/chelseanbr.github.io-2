@@ -16,7 +16,10 @@
 ### 3. [Resume](#Resume)
 
 ___
-<small>Please note: If you notice any missing content like rectangles that show up blank or saying "preview not available," kindly refresh the page to reload them sucessfully. I am still trying to resolve the issue with these iframes intermittently failing to load. Thank you!</small>
+
+<small><b><u>Please note:</b></u> If you notice any missing content like rectangles that show up blank or saying "preview not available," kindly refresh the page to reload them sucessfully. I am still looking into the issue with these iframes intermittently failing to load. Thank you!
+</small>
+
 ___
 # Featured Individual Projects <a name="Featured-Individual-Projects"></a>
 
