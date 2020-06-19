@@ -2,7 +2,7 @@
 ---
 ## Table of Contents
 ### 1. [Featured Individual Projects](#Featured-Individual-Projects)
-* Between the Lines of Tripadvisor Hotel Reviews
+* [Between the Lines of Tripadvisor Hotel Reviews](#between-the-lines)
 * What's In My Makeup Bag?
 
 ### 2. [Group Case Studies](#Group-Case-Studies)
@@ -18,8 +18,10 @@
 ___
 # Featured Individual Projects <a name="Featured-Individual-Projects"></a>
 
-<h2><a href="https://github.com/chelseanbr/between-the-lines-hotels">Between the Lines of Tripadvisor Hotel Reviews</a>
+<h2><a name="between-the-lines">Between the Lines of Tripadvisor Hotel Reviews</a>
 </h2>
+<a href="https://github.com/chelseanbr/between-the-lines-hotels">GitHub Repo</a>
+<br>
 <img src="images/confusion_matrix_test_lstm_6epochs_20200608-07:34:50.png"/>
 <p><iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/between-the-lines-hotels.pdf&embedded=true" loading="eager"></iframe></p>
 
