@@ -45,13 +45,26 @@ significant differences across similar companies in their ratios of discontinued
 
 ---
 
-## More Projects
+## Case Studies
 
-### Coming soon!
-<!-- - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/) -->
+- [Detecting Fraud](https://docs.google.com/presentation/d/1N7TDh3B01rEnUJEVcMnRda2Aj2pg0AVLp4S5C2i6NK8/edit?usp=sharing)
+<iframe width="100%" height="600" src="https://docs.google.com/presentation/d/1N7TDh3B01rEnUJEVcMnRda2Aj2pg0AVLp4S5C2i6NK8/edit?usp=sharing&embedded=true" loading="eager"></iframe>
 
+- [Recommending Movies](https://docs.google.com/presentation/d/10mxPJzqnq_YypwsjY20M1ZftKIaZDRyxxnlbfJ-zcMk/edit?usp=sharing)
+<iframe width="100%" height="600" src="https://docs.google.com/presentation/d/10mxPJzqnq_YypwsjY20M1ZftKIaZDRyxxnlbfJ-zcMk/edit?usp=sharing&embedded=true" loading="eager"></iframe>
+
+- [IMDB Movie Review Sentiment Prediction](https://docs.google.com/presentation/d/157sQ8w0JysUSefijpaAORrjJrGq6SzjHdJTTeXWeoEQ/edit?usp=sharing)
+<iframe width="100%" height="600" src="https://docs.google.com/presentation/d/157sQ8w0JysUSefijpaAORrjJrGq6SzjHdJTTeXWeoEQ/edit?usp=sharing&embedded=true" loading="eager"></iframe>
+
+- [Reducing Churn with Supervised Learning](https://docs.google.com/presentation/d/1g_H1GpfpihiBeJgSnZp61ADMddcC-JJz55yjfvi-7Ew/edit?usp=sharing)
+<iframe width="100%" height="600" src="https://docs.google.com/presentation/d/1g_H1GpfpihiBeJgSnZp61ADMddcC-JJz55yjfvi-7Ew/edit?usp=sharing&embedded=true" loading="eager"></iframe>
+
+- [Predicting Sale Price of Auction Machinery](https://docs.google.com/presentation/d/1VYV2tXBUZtqHPF1DGkUxlnXHwdmMJrtJA7zk8j5cJ5U/edit?usp=sharing)
+<iframe width="100%" height="600" src="https://docs.google.com/presentation/d/1VYV2tXBUZtqHPF1DGkUxlnXHwdmMJrtJA7zk8j5cJ5U/edit?usp=sharing" loading="eager"></iframe>
+
+- [Macron vs Le Pen Through Tweets - Spark EDA](https://docs.google.com/presentation/d/1DP2IOl3nunOTMZe26R-GYc3B_nZu7AHivER2wIWtxoQ/edit?usp=sharing)
+<iframe width="100%" height="600" src="https://docs.google.com/presentation/d/1DP2IOl3nunOTMZe26R-GYc3B_nZu7AHivER2wIWtxoQ/edit?usp=sharing&embedded=true" loading="eager"></iframe>
+
+___
+### More projects to come!
 ---
