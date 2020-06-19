@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science Portfolio <a name="Data-Science-Portfolio"></a>
 ---
 ## Table of Contents
 ### 1. [Featured Individual Projects](#Featured-Individual-Projects)
@@ -16,7 +16,7 @@
 ### 3. [Resume](#Resume)
 
 ___
-# Featured Individual Projects
+# Featured Individual Projects <a name="Featured-Individual-Projects"></a>
 
 <h2><a href="https://github.com/chelseanbr/between-the-lines-hotels">Between the Lines of Tripadvisor Hotel Reviews</a>
 </h2>
@@ -30,7 +30,7 @@ ___
 <br><br>
 <h3>Technologies</h3> 
 
-AWS EC2, Docker, Flask, Python and libraries: TensorFlow, NLTK, Scikit-Learn, BeautifulSoup4, Pandas, NumPy, Matplotlib, Seaborn
+AWS EC2, Docker, Flask, Python and libraries: <b>TensorFlow</b>, NLTK, Scikit-Learn, BeautifulSoup4, Pandas, NumPy, Matplotlib, Seaborn
 <br><br>
 
 <img src="images/wordcloud_positive.png"/>
@@ -72,10 +72,9 @@ significant differences across similar companies in their ratios of discontinued
 <br><br>
 
 ---
-# Group Case Studies
-
+# Group Case Studies <a name="Group-Case-Studies"></a>
 Thanks to my fellow teammates at Galvanize!
-<br><br><br><br>
+<br><br>
 
 <h2><a href="https://docs.google.com/presentation/d/1N7TDh3B01rEnUJEVcMnRda2Aj2pg0AVLp4S5C2i6NK8/edit?usp=sharing">Detecting Fraud</a>
 </h2>
@@ -114,7 +113,7 @@ My team had roughly 12 hours split into two days to build a recommender system f
 This case study took place over roughly 6 hours in one day. We used natural language processing (NLP) to classify IMDB movie reviews as either positive or negative (neutral reviews were excluded from our dataset). We explored how different NLP techniques affected model scores and ended up with a logistic regression performing the best using a Snowball stemmer and TF-IDF features.
 <br><br>
 <h3>Technologies</h3> 
-<b>Natural Language Toolkit (NLTK)</b>, Scikit-Learn, Pandas, Matplotlib, Seaborn
+<b>NLTK</b>, Scikit-Learn, Pandas, Matplotlib, Seaborn
 </p>
 
 <br><br>
@@ -168,7 +167,7 @@ ___
 <br>
 
 ---
-# Resume
+# Resume  <a name="Resume"></a>
 <iframe width="100%" height="600" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/Chelsea_Ramos_Resume.pdf&embedded=true" loading="eager"></iframe>
 
 <br><br>
