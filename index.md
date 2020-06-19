@@ -4,6 +4,7 @@
 ### 1. [Featured Individual Projects](#Featured-Individual-Projects)
 * Between the Lines of Tripadvisor Hotel Reviews
 * What's In My Makeup Bag?
+
 ### 2. [Group Case Studies](#Group-Case-Studies)
 * Detecting Fraud
 * Recommending Movies
@@ -11,6 +12,7 @@
 * Reducing Churn with Supervised Learning
 * Predicting Sale Price of Auction Machinery
 * Macron vs Le Pen Through Tweets - Spark EDA
+
 ### 3. [Resume](#Resume)
 ___
 # Featured Individual Projects
