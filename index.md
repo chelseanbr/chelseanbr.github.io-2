@@ -2,7 +2,7 @@
 
 ---
 
-<u><h2>Featured Projects</h2></u>
+# Featured Projects
 <br>
 
 <h2><a href="https://github.com/chelseanbr/between-the-lines-hotels">Between the Lines of Tripadvisor Hotel Reviews</a>
@@ -25,6 +25,8 @@
 <h3><p align="center"> 
 <a href="http://tinyurl.com/rating-predictor">[ Check out the Web App! ]</a>
 </p></h3>
+<br>
+<hr>
 
 <br>
 <h2><a href="https://github.com/chelseanbr/Whats-In-My-Makeup-Bag">What's In My Makeup Bag?</a>
@@ -51,7 +53,8 @@ significant differences across similar companies in their ratios of discontinued
 <br><br>
 
 ---
-<h2><u>Case Studies</h2></u>
+
+# Case Studies
 <br>
 
 <h2><a href="https://docs.google.com/presentation/d/1N7TDh3B01rEnUJEVcMnRda2Aj2pg0AVLp4S5C2i6NK8/edit?usp=sharing">Detecting Fraud</a>
