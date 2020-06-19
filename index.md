@@ -2,8 +2,8 @@
 ---
 ## Table of Contents
 ### 1. [Featured Individual Projects](#Featured-Individual-Projects)
-* [Between the Lines of Tripadvisor Hotel Reviews](#between-the-lines)
-* [What's In My Makeup Bag?](#makeup)
+* [Between the Lines of Tripadvisor Hotel Reviews](#between-the-lines) - NLP & Sentiment Classification
+* [What's In My Makeup Bag?](#makeup) - Hypothesis Testing
 
 ### 2. [Group Case Studies](#Group-Case-Studies)
 * [Detecting Fraud](#fraud)
