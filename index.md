@@ -14,6 +14,7 @@
 * Macron vs Le Pen Through Tweets - Spark EDA
 
 ### 3. [Resume](#Resume)
+
 ___
 # Featured Individual Projects
 
@@ -72,7 +73,9 @@ significant differences across similar companies in their ratios of discontinued
 
 ---
 # Group Case Studies
-<br>
+
+Thanks to my fellow teammates at Galvanize!
+<br><br><br><br>
 
 <h2><a href="https://docs.google.com/presentation/d/1N7TDh3B01rEnUJEVcMnRda2Aj2pg0AVLp4S5C2i6NK8/edit?usp=sharing">Detecting Fraud</a>
 </h2>
