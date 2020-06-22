@@ -1,5 +1,8 @@
 # Data Science Portfolio <a name="Data-Science-Portfolio"></a>
 ---
+<p>This portfolio includes my featured individual projects, as well as group case studies completed in teams of 4-5. Additionally, the slide decks available per project were created and presented to audiences of over 20 to 50 people that included data science instructors, peers, and members of the community.</p>
+
+___
 ## Table of Contents
 ### 1. [Featured Individual Projects](#Featured-Individual-Projects)
 * [Between the Lines of Tripadvisor Hotel Reviews](#between-the-lines) - NLP & Sentiment Classification
