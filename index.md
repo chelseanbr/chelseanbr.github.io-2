@@ -38,7 +38,7 @@ The duration of this project was about 2 weeks and it was managed through <b>agi
 <br><br>
 <h3>Technologies</h3> 
 
-<b>AWS EC2, Docker, Flask,</b> Jupyter Notebook, Python and libraries: <b>TensorFlow, NLTK, Scikit-Learn, BeautifulSoup4,</b> Pandas, NumPy, Matplotlib, Seaborn
+<b>AWS EC2, Docker, Flask,</b> Jupyter Notebook, Python and libraries: <b>TensorFlow/Keras, NLTK, Scikit-Learn, BeautifulSoup4,</b> Pandas, NumPy, Matplotlib, Seaborn
 <br><br>
 
 <img src="images/wordcloud_positive.png"/>
