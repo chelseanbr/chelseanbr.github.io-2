@@ -42,9 +42,9 @@ ___
   }
 </style>
 
-<!-- <p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFJKpAtyG1DyWcIr2IuS7U5TQpnbagtCrRjk8eB05t7L7xkPNmUgTRIFEmAih0ylVdqw7MwNkSDw1P/embed?start=true&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p> -->
+<!-- <p><div class="responsive-google-slides"><div class="responsive-google-slides"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFJKpAtyG1DyWcIr2IuS7U5TQpnbagtCrRjk8eB05t7L7xkPNmUgTRIFEmAih0ylVdqw7MwNkSDw1P/embed?start=true&loop=true&delayms=5000"></iframe></div></p> -->
 
-<p><div class="responsive-google-slides"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFJKpAtyG1DyWcIr2IuS7U5TQpnbagtCrRjk8eB05t7L7xkPNmUgTRIFEmAih0ylVdqw7MwNkSDw1P/embed?start=true&loop=true&delayms=5000"></iframe></div></p>
+<p><div class="responsive-google-slides"><div class="responsive-google-slides"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFJKpAtyG1DyWcIr2IuS7U5TQpnbagtCrRjk8eB05t7L7xkPNmUgTRIFEmAih0ylVdqw7MwNkSDw1P/embed?start=true&loop=true&delayms=5000"></iframe></div></p>
 
 <h3>Summary</h3> 
 The duration of this project was about 2 weeks and it was managed through <b>agile scrum meetings.</b> I scraped 1.2 million Tripadvisor hotel reviews in 4 days to build a sentiment classifier. Then, after data preprocessing and EDA, I built and evaluated over 6 different models on their confusion matrices and improved accuracy from <70% to 88%. Finally, I deployed a long short-term memory neural network to a <a href="http://tinyurl.com/rating-predictor">web app</a> running in a TensorFlow Docker container on an AWS EC2 instance. For more details, please check out the <a href="https://github.com/chelseanbr/between-the-lines-hotels">GitHub Repo</a> and <a href="https://docs.google.com/presentation/d/1nZ9morIyqlIuJPOEAuhNwTw9m3lByksouw4KqXlmOfQ/edit?usp=sharing">Google Slides.</a>
@@ -70,7 +70,7 @@ The duration of this project was about 2 weeks and it was managed through <b>agi
 <br>
 
 <img src="images/pie_product_status.png"/>
-<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqn3CU68sORWuVN4KVUne7gcbFL3aqZDcczq8rlgDTRfQE_RDncapGnUQHfdBhGhSKOz6PbxJag41i/embed?start=true&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+<p><div class="responsive-google-slides"><div class="responsive-google-slides"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqn3CU68sORWuVN4KVUne7gcbFL3aqZDcczq8rlgDTRfQE_RDncapGnUQHfdBhGhSKOz6PbxJag41i/embed?start=true&loop=true&delayms=5000"></iframe></div></p>
 
 <h3>Summary</h3>
 This project lasted 1 week and it was also managed through agile scrum meetings. I cleaned and performed EDA on >100,000 harmful cosmetic product records. Then, I conducted hypothesis testing using Welch's t-test and found statistically significant differences across similar companies in their ratios of discontinued or reformulated products to harmful products reported. Please check out the <a href="https://github.com/chelseanbr/Whats-In-My-Makeup-Bag">GitHub Repo</a> and <a href="https://docs.google.com/presentation/d/1D423buf9mRmoyYd_Y_Px--UYyISzgiUIupycwaf3miw/edit?usp=sharing">Google Slides</a> for more info.
@@ -94,7 +94,7 @@ Thanks to my fellow teammates at Galvanize!
 <h2><a href="https://docs.google.com/presentation/d/1N7TDh3B01rEnUJEVcMnRda2Aj2pg0AVLp4S5C2i6NK8/edit?usp=sharing" name="fraud">Detecting Fraud</a>
 </h2>
 <br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQOkGCa9-K4tLePO77LtGgm4FxW0Z3qiiG_sPUP6yTcbkfEIFgRora3KKZUpVZhhYKLSf_IVGYIQKie/embed?start=true&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="responsive-google-slides"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQOkGCa9-K4tLePO77LtGgm4FxW0Z3qiiG_sPUP6yTcbkfEIFgRora3KKZUpVZhhYKLSf_IVGYIQKie/embed?start=true&loop=true&delayms=5000"></iframe></div>
 
 <p>
 <h3>Summary</h3>
@@ -109,7 +109,7 @@ Over the course of roughly 12 hours split into two days, my team had to train an
 <h2><a href="https://docs.google.com/presentation/d/10mxPJzqnq_YypwsjY20M1ZftKIaZDRyxxnlbfJ-zcMk/edit?usp=sharing" name="movie-rec">Recommending Movies</a>
 </h2>
 <br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQuKXOx91joVLAbEmPRidFWk2BHPn03pPh4IPw8_FyN8ubMTcp_FAyllMQY9fFW1m3z3StP-Wnzibo5/embed?start=true&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="responsive-google-slides"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQuKXOx91joVLAbEmPRidFWk2BHPn03pPh4IPw8_FyN8ubMTcp_FAyllMQY9fFW1m3z3StP-Wnzibo5/embed?start=true&loop=true&delayms=5000"></iframe></div>
 
 <p>
 <h3>Summary</h3>
@@ -124,7 +124,7 @@ My team had roughly 12 hours split into two days to build a recommender system f
 <h2><a href="https://docs.google.com/presentation/d/157sQ8w0JysUSefijpaAORrjJrGq6SzjHdJTTeXWeoEQ/edit?usp=sharing" name="imdb">IMDB Movie Review Sentiment Prediction</a>
 </h2>
 <br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR2Udm3MjXwDG3ScwIBlHsgD_baZg0HbidxYYwhP2mfonyPwOO8GPIwthRH-g05fUgVyJHPNd3JO5wH/embed?start=true&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="responsive-google-slides"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR2Udm3MjXwDG3ScwIBlHsgD_baZg0HbidxYYwhP2mfonyPwOO8GPIwthRH-g05fUgVyJHPNd3JO5wH/embed?start=true&loop=true&delayms=5000"></iframe></div>
 
 <p>
 <h3>Summary</h3>
@@ -139,7 +139,7 @@ This case study took place over roughly 6 hours in one day. We used natural lang
 <h2><a href="https://docs.google.com/presentation/d/1g_H1GpfpihiBeJgSnZp61ADMddcC-JJz55yjfvi-7Ew/edit?usp=sharing" name="churn">Reducing Churn with Supervised Learning</a>
 </h2>
 <br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR92DxWd7TBQzqmVn8rH6ba0ROeHmVhmFZMkSBp9-7f5c2LBS7yncTq-0Jz9cigact8C5IuPjb-bCgN/embed?start=true&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="responsive-google-slides"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR92DxWd7TBQzqmVn8rH6ba0ROeHmVhmFZMkSBp9-7f5c2LBS7yncTq-0Jz9cigact8C5IuPjb-bCgN/embed?start=true&loop=true&delayms=5000"></iframe></div>
 
 <p>
 <h3>Summary</h3>
@@ -154,7 +154,7 @@ Approximately 6-hour (one day) EDA & modeling case study to reduce churn.
 <h2><a href="https://docs.google.com/presentation/d/1WVcawr_99BM5hdVz6aZ9d_Y0-LYXF1_aV_Y_5RDlv5A/edit?usp=sharing" name="price">Predicting Sale Price of Auction Machinery</a>
 </h2>
 <br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRI1uOecWy70Yo34aBiIIXx7DIICYlNu5joIgpaHjpiLNqwNb8xpIXnOGet_jmgWMNA4qrn03Tq3a1Y/embed?start=true&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="responsive-google-slides"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRI1uOecWy70Yo34aBiIIXx7DIICYlNu5joIgpaHjpiLNqwNb8xpIXnOGet_jmgWMNA4qrn03Tq3a1Y/embed?start=true&loop=true&delayms=5000"></iframe></div>
 
 <p>
 <h3>Summary</h3>
@@ -169,7 +169,7 @@ Roughly 6-hour (one day) EDA & modeling case study to predict sale price with re
 <h2><a href="https://docs.google.com/presentation/d/1DP2IOl3nunOTMZe26R-GYc3B_nZu7AHivER2wIWtxoQ/edit?usp=sharing" name="spark">Macron vs Le Pen Through Tweets</a>
 </h2>
 <br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7M0tRBZSXJCp55UsruBZwxs2Vyr8voA8_5S1h9IuwSduvsJYAytW4z2lSEfdNzpNFlqF16v2nVfHd/embed?start=true&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="responsive-google-slides"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7M0tRBZSXJCp55UsruBZwxs2Vyr8voA8_5S1h9IuwSduvsJYAytW4z2lSEfdNzpNFlqF16v2nVfHd/embed?start=true&loop=true&delayms=5000"></iframe></div>
 
 <p>
 <h3>Summary</h3>
@@ -189,10 +189,9 @@ ___
 
 ---
 # Resume  <a name="Resume"></a>
-<iframe frameborder="0" scrolling="no"
-     width="640" height="480"
+<div class="responsive-google-slides"><iframe
      src="https://drive.google.com/file/d/1YGJWWtYpP4M6p6l0-xGvHUERRMD8Fbff/preview">
-  </iframe>
+  </iframe></div>
 
 <br><br>
 
