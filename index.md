@@ -169,7 +169,11 @@ ___
 
 ---
 # Resume  <a name="Resume"></a>
-<iframe width="100%" height="600" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/Chelsea_Ramos_Resume.pdf&embedded=true" loading="eager"></iframe>
+<!-- <iframe width="100%" height="600" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/Chelsea_Ramos_Resume.pdf&embedded=true" loading="eager"></iframe> -->
+<iframe frameborder="0" scrolling="no"
+     width="640" height="480"
+     src="https://drive.google.com/file/d/1YGJWWtYpP4M6p6l0-xGvHUERRMD8Fbff/preview">
+  </iframe>
 
 <br><br>
 
