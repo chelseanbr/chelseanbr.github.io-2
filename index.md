@@ -18,10 +18,10 @@ ___
 
 ### 3. [Resume](#Resume)
 
-___
+<!-- ___
 
 <p><small><b><u>Please note:</u></b> If you notice any missing content like rectangles that show up blank or saying "preview not available," kindly refresh the page to reload them sucessfully. These iframes might intermittently fail to load. Thank you!
-</small></p>
+</small></p> -->
 
 ___
 # Featured Individual Projects <a name="Featured-Individual-Projects"></a>
@@ -31,7 +31,8 @@ ___
 <!-- <a href="https://github.com/chelseanbr/between-the-lines-hotels">GitHub Repo</a> -->
 <br>
 <img src="images/confusion_matrix_test_lstm_6epochs_20200608-07:34:50.png"/>
-<p><iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/between-the-lines-hotels.pdf&embedded=true" loading="eager"></iframe></p>
+<!-- <p><iframe width="100%" height="500" src="https://docs.google.com/gview?url=https://github.com/chelseanbr/chelseanbr.github.io/raw/editing/pdf/between-the-lines-hotels.pdf&embedded=true" loading="eager"></iframe></p> -->
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFJKpAtyG1DyWcIr2IuS7U5TQpnbagtCrRjk8eB05t7L7xkPNmUgTRIFEmAih0ylVdqw7MwNkSDw1P/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
 <h3>Summary</h3> 
 The duration of this project was about 2 weeks and it was managed through <b>agile scrum meetings.</b> I scraped 1.2 million Tripadvisor hotel reviews in 4 days to build a sentiment classifier. Then, after data preprocessing and EDA, I built and evaluated over 6 different models on their confusion matrices and improved accuracy from <70% to 88%. Finally, I deployed a long short-term memory neural network to a <a href="http://tinyurl.com/rating-predictor">web app</a> running in a TensorFlow Docker container on an AWS EC2 instance. For more details, please check out the <a href="https://github.com/chelseanbr/between-the-lines-hotels">GitHub Repo</a> and <a href="https://docs.google.com/presentation/d/1nZ9morIyqlIuJPOEAuhNwTw9m3lByksouw4KqXlmOfQ/edit?usp=sharing">Google Slides.</a>
