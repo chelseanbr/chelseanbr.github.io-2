@@ -42,9 +42,7 @@ ___
   }
 </style>
 
-<!-- <p><div class="responsive-google-slides"><div class="responsive-google-slides"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFJKpAtyG1DyWcIr2IuS7U5TQpnbagtCrRjk8eB05t7L7xkPNmUgTRIFEmAih0ylVdqw7MwNkSDw1P/embed?start=true&loop=true&delayms=5000"></iframe></div></p> -->
-
-<p><div class="responsive-google-slides"><div class="responsive-google-slides"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFJKpAtyG1DyWcIr2IuS7U5TQpnbagtCrRjk8eB05t7L7xkPNmUgTRIFEmAih0ylVdqw7MwNkSDw1P/embed?start=true&loop=true&delayms=5000"></iframe></div></p>
+<p><div class="responsive-google-slides"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFJKpAtyG1DyWcIr2IuS7U5TQpnbagtCrRjk8eB05t7L7xkPNmUgTRIFEmAih0ylVdqw7MwNkSDw1P/embed?start=true&loop=true&delayms=5000"></iframe></div></p>
 
 <h3>Summary</h3> 
 The duration of this project was about 2 weeks and it was managed through <b>agile scrum meetings.</b> I scraped 1.2 million Tripadvisor hotel reviews in 4 days to build a sentiment classifier. Then, after data preprocessing and EDA, I built and evaluated over 6 different models on their confusion matrices and improved accuracy from <70% to 88%. Finally, I deployed a long short-term memory neural network to a <a href="http://tinyurl.com/rating-predictor">web app</a> running in a TensorFlow Docker container on an AWS EC2 instance. For more details, please check out the <a href="https://github.com/chelseanbr/between-the-lines-hotels">GitHub Repo</a> and <a href="https://docs.google.com/presentation/d/1nZ9morIyqlIuJPOEAuhNwTw9m3lByksouw4KqXlmOfQ/edit?usp=sharing">Google Slides.</a>
@@ -70,7 +68,7 @@ The duration of this project was about 2 weeks and it was managed through <b>agi
 <br>
 
 <img src="images/pie_product_status.png"/>
-<p><div class="responsive-google-slides"><div class="responsive-google-slides"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqn3CU68sORWuVN4KVUne7gcbFL3aqZDcczq8rlgDTRfQE_RDncapGnUQHfdBhGhSKOz6PbxJag41i/embed?start=true&loop=true&delayms=5000"></iframe></div></p>
+<p><div class="responsive-google-slides"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqn3CU68sORWuVN4KVUne7gcbFL3aqZDcczq8rlgDTRfQE_RDncapGnUQHfdBhGhSKOz6PbxJag41i/embed?start=true&loop=true&delayms=5000"></iframe></div></p>
 
 <h3>Summary</h3>
 This project lasted 1 week and it was also managed through agile scrum meetings. I cleaned and performed EDA on >100,000 harmful cosmetic product records. Then, I conducted hypothesis testing using Welch's t-test and found statistically significant differences across similar companies in their ratios of discontinued or reformulated products to harmful products reported. Please check out the <a href="https://github.com/chelseanbr/Whats-In-My-Makeup-Bag">GitHub Repo</a> and <a href="https://docs.google.com/presentation/d/1D423buf9mRmoyYd_Y_Px--UYyISzgiUIupycwaf3miw/edit?usp=sharing">Google Slides</a> for more info.
