@@ -104,7 +104,7 @@ My team had roughly 12 hours split into two days to build a recommender system f
 <h2><a href="https://docs.google.com/presentation/d/157sQ8w0JysUSefijpaAORrjJrGq6SzjHdJTTeXWeoEQ/edit?usp=sharing" name="imdb">IMDB Movie Review Sentiment Prediction</a>
 </h2>
 <br>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR2Udm3MjXwDG3ScwIBlHsgD_baZg0HbidxYYwhP2mfonyPwOO8GPIwthRH-g05fUgVyJHPNd3JO5wH/embed?start=true&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR2Udm3MjXwDG3ScwIBlHsgD_baZg0HbidxYYwhP2mfonyPwOO8GPIwthRH-g05fUgVyJHPNd3JO5wH/embed?start=true&loop=true&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <p>
 <h3>Summary</h3>
